@@ -348,7 +348,8 @@ PRODUCT_COPY_FILES += \
 
 # TextClassifier smart selection model files
 PRODUCT_PACKAGES += \
-    textclassifier.bundle1
+    textclassifier.bundle1 \
+    vendor.lineage.touch@1.0-service.xiaomi_8953
 
 # Thermal
 PRODUCT_PACKAGES += \
